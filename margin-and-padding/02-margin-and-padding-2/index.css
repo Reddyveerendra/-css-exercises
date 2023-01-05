@@ -1,0 +1,32 @@
+.one{
+    margin-top: 40px;
+    margin-bottom: 160px;
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color: rgb(255, 255, 255);
+    margin: 16px;
+}
+body{
+    background: #EEEEEE;
+}
+.three,.four,.five{
+    background-color: #E3F3FF;
+    height: auto;
+    width: auto;
+    padding: 8px;
+    margin: 8px;
+}
+.three{
+    font-size: 16px;
+}
+.five{
+    text-align: center;
+}
+button{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 8px;
+    border: 1px solid #EEEEEE;
+}
