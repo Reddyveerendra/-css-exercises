@@ -1,0 +1,23 @@
+.one{
+    border: 3px solid blue;
+    padding: 32px;
+    margin: 12px;
+    background: #FAC0CB;
+}
+body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+#two{
+    height: 35px;
+    border: 3px solid blueviolet;
+    background: lightblue;
+    margin-bottom: 48px;
+}
+#three{
+    padding: 32px;
+    margin-left: auto;
+    width: 200px;
+    border: 3px solid maroon;
+    background: rgb(252, 218, 185);
+}
